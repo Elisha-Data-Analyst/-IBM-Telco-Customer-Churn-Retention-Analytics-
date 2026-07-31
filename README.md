@@ -1,3 +1,6 @@
+<img width="1357" height="380" alt="IBM teleco Churn Dahsboard" src="https://github.com/user-attachments/assets/b5ded319-bdbd-4376-ad43-cefd22d86f35" />
+
+
 # 📊 Telecom Customer Churn & Retention Analytics Dashboard
 ### Strategic Revenue Optimization and Attrition Diagnostics (IBM Corporate Case Study)
 

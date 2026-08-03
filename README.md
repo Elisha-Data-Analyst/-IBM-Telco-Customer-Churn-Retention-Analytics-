@@ -1,4 +1,5 @@
-<img width="1357" height="380" alt="IBM teleco Churn Dahsboard" src="https://github.com/user-attachments/assets/b5ded319-bdbd-4376-ad43-cefd22d86f35" />
+<img width="990" height="292" alt="IBM teleco Churn Dahsboard" src="https://github.com/user-attachments/assets/195f6ab3-c247-48d1-8ed5-13b2836b81f6" />
+
 
 
 # 📊 Telecom Customer Churn & Retention Analytics Dashboard
